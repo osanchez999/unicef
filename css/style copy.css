@@ -1,0 +1,29 @@
+#sec-inicial {
+	background-color:#CCC;
+	color:#000000;
+	}
+.h3 {
+	font-size: 45px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 700;
+	margin-bottom: 30px;
+	}
+
+#sec-second {
+	padding: 80px 80px;
+	}
+	
+#sec-tres {
+	padding: 80px 80px;
+	background-color:#CCC;
+	}
+
+#sec-cuatro {
+	padding: 80px 80px;
+	}
+	
+.boton {
+	padding: 30px 30px;
+	}
